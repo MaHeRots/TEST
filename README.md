@@ -5,9 +5,8 @@ Un parapgraphe
 
 ## Mon titre de Niveau 2
 
-....
-Un bout de code
-....
+``` Un bout de code ```
+
 
 > Une citation
 
